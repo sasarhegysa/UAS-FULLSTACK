@@ -42,21 +42,24 @@ git clone https://github.com/sasarhegysa/UAS-FULLSTACK.git
 cd UAS-FULLSTACK
 
 ### 2. Jalankan Frontend
+```bash
 cd "UAS FRONTEND"
 npm install
 npm run dev
 
 ### 3. Jalankan Backend
+```bash
 cd "UAS BACKEND"
 npm install
 npm run start
 
 ### 4. Struktur Folder
+```bash
 UAS-FULLSTACK/
 ├── UAS FRONTEND/      # React + Vite
 └── UAS BACKEND/       # Express + MongoDB Atlas
 
-
+```bash
 STIKOM PGRI BANYUWANGI 2024/2025
 1123102098 - RHEGYSA ALVYANTHI JUNIARTHA
 1123102116 - IMAS NABELLIA VENDA
