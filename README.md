@@ -1,4 +1,3 @@
-
 # 🧳 UAS FULLSTACK - Aplikasi Booking Wisata
 
 Project ini adalah aplikasi fullstack untuk pemesanan destinasi wisata, akomodasi (hotel), dan transportasi (pesawat, kereta, bus) secara online.  
@@ -36,32 +35,15 @@ Dibangun menggunakan **React.js (Vite)** di sisi frontend dan **Express.js + Mon
 
 ## 🚀 Cara Menjalankan Project
 
-### 1. Clone Repository
+### Clone Repository
 ```bash
 git clone https://github.com/sasarhegysa/UAS-FULLSTACK.git
 cd UAS-FULLSTACK
 
-### 2. Jalankan Frontend
-```bash
 cd "UAS FRONTEND"
 npm install
 npm run dev
 
-### 3. Jalankan Backend
-```bash
 cd "UAS BACKEND"
 npm install
 npm run start
-
-### 4. Struktur Folder
-```bash
-UAS-FULLSTACK/
-├── UAS FRONTEND/      # React + Vite
-└── UAS BACKEND/       # Express + MongoDB Atlas
-
-```bash
-STIKOM PGRI BANYUWANGI 2024/2025
-1123102098 - RHEGYSA ALVYANTHI JUNIARTHA
-1123102116 - IMAS NABELLIA VENDA
-1123102100 - ARIENTA AULIA HAPSARI
-1123102158 - PASYA WAHYU PERMATA NINGSIH
